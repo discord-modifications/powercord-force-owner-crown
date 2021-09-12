@@ -1,0 +1,7 @@
+{
+   "name": "Force Owner Crown",
+   "description": "Force the owner crown next to usernames even if the server is large.",
+   "version": "1.0.0",
+   "author": "eternal",
+   "license": "Unlicensed"
+}
